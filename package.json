@@ -1,0 +1,22 @@
+{
+  "name": "mdm-back-end",
+  "version": "1.0.0",
+  "description": "mdm back end",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "ioredis": "^5.4.1",
+    "redis": "^4.6.13"
+  },
+  "main": "server.js",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "eslint": "^8.21.0"
+  },
+  "eslintConfig": {},
+  "scripts": {
+    "start": "node server.js"
+  }
+}
